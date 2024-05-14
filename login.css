@@ -25,7 +25,7 @@
     background-color: #fff;
     min-height: 100vh;
     overflow: hidden;
-    background-image: url('curva.png');
+    background-image: url('/curva.png');
     background-repeat: no-repeat;
     background-size: cover;
   }
